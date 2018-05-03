@@ -1,3 +1,4 @@
+#created by Losant
 import json
 from gpiozero import LED, Button # Import GPIO library: https://gpiozero.readthedocs.io/en/stable/
 from time import sleep
